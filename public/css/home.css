@@ -1,0 +1,12 @@
+.card-title {
+    color: black;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+.fill > img {
+    max-width: 300px;
+    max-height: 300px;
+    width: 33vw;
+    height: auto;
+ }
